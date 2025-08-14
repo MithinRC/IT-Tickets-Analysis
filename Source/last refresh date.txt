@@ -1,0 +1,4 @@
+let
+LastRefreshDate = #table(type table[LastRefresh=datetime], {{DateTime.LocalNow()}})
+in
+LastRefreshDate
