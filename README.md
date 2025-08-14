@@ -37,9 +37,7 @@ The dashboard allows filtering by severity, priority, ticket type, satisfaction 
 ---
 
 ## 📂Dashboard Preview
-- **/Dashboard_Screenshots/** – Contains images of the IT Tickets dashboard
-- **/Data/** – Sample dataset used in analysis
-- **README.md** – Project documentation
+![image alt](https://github.com/MithinRC/IT-Tickets-Analysis/blob/e28f2d122622d74aa1d60c5195d460256cc29eb5/Screenshot%202025-08-14%20131909.png)
 
 ---
 
